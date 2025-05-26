@@ -113,5 +113,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/email-reply-assistant](https://github.com/yourusername/email-reply-assistant) 
+Your Name - pinarbbuke@gmail.com
+Project Link: [https://github.com/PBUKE/email-reply-assistant]
